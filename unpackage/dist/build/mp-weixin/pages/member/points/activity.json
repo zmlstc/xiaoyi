@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "积分活动",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "sl-filter": "/components/sl-filter/sl-filter"
+  }
+}

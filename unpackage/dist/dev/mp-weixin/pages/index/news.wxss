@@ -1,0 +1,112 @@
+
+.s-row {
+	position: relative;
+	margin-left: 0;
+	margin-right: 0;
+	height: auto;
+	zoom: 1;
+	display: block;
+}
+.s-row::after,
+.s-row::before {
+	content: "";
+	display: table;
+}
+.s-row::after {
+	clear: both;
+	visibility: hidden;
+	font-size: 0;
+	height: 0;
+}
+.s-col {
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.is-col-24 {
+	float: left;
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 auto;
+	        flex: 0 0 auto;
+}
+.is-col-24 {
+	display: block;
+	width: 100%;
+}
+.s-list {
+	margin-top: 40rpx;
+	background-color: #fff;
+	line-height: 1.5;
+	font-size: 32rpx;
+	overflow: hidden;
+	position: relative;
+}
+.s-list:before {
+	top: 0;
+	border-top: 1px solid #dcdee2;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+	-webkit-transform: scaleY(0.5);
+	transform: scaleY(0.5);
+}
+.s-list:after,
+.s-list:before {
+	content: " ";
+	position: absolute;
+	left: 0;
+	right: 0;
+	height: 1px;
+	color: #dcdee2;
+	z-index: 2;
+}
+.s-list:after {
+	bottom: 0;
+	border-bottom: 1px solid #dcdee2;
+	-webkit-transform-origin: 0 100%;
+	transform-origin: 0 100%;
+	-webkit-transform: scaleY(0.5);
+	transform: scaleY(0.5);
+}
+.has-mgt-0 {
+	margin-top: 0rpx !important;
+}
+.is-item {
+	padding: 20rpx 30rpx;
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+	text-decoration: none;
+	color: #353535;
+	-webkit-tap-highlight-color: transparent;
+}
+.is-item:before {
+	content: " ";
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	height: 1px;
+	border-top: 1px solid #dcdee2;
+	color: #dcdee2;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+	-webkit-transform: scaleY(0.5);
+	transform: scaleY(0.5);
+	left: 30rpx;
+	z-index: 2;
+}
+.is-item:first-child:before,
+.is-item-line:first-child:before {
+	display: none !important;
+}
+.is-item-bd {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	flex: 1;
+}
+

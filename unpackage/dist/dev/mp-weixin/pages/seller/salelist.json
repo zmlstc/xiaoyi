@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "销售记录",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "uni-drawer": "/components/uni-drawer/uni-drawer"
+  }
+}

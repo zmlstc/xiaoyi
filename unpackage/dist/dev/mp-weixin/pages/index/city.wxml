@@ -1,0 +1,1 @@
+<view class="demo"><select-city vue-id="8002e136-1" hotCitys="{{hotCitys}}" citys="{{citys}}" value="{{value}}" data-event-opts="{{[['^onSelect',[['onSelect']]]]}}" bind:onSelect="__e" bind:__l="__l"></select-city></view>

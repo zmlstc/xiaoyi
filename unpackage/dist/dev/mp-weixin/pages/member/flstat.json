@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "返利统计",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "mx-date-picker": "/components/mx-datepicker/mx-datepicker"
+  }
+}

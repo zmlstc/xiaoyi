@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "店铺搜索",
+  "navigationBarBackgroundColor": "#ffffff",
+  "bounce": "none",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "search-input": "/components/search-input/search"
+  }
+}

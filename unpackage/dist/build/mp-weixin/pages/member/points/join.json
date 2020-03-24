@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "活动详情",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "sl-filter": "/components/sl-filter/sl-filter"
+  }
+}

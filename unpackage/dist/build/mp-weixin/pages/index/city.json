@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "城市选择",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "select-city": "/components/city/select-city"
+  }
+}

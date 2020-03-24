@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "评论管理",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate"
+  }
+}

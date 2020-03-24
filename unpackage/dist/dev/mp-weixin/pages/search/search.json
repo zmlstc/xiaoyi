@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "店铺搜索",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "search-input": "/components/search-input/search"
+  }
+}

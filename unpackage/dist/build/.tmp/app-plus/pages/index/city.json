@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "城市选择",
+  "navigationBarBackgroundColor": "#ffffff",
+  "bounce": "none",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "select-city": "/components/city/select-city"
+  }
+}

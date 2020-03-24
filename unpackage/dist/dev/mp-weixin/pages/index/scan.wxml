@@ -1,0 +1,1 @@
+<view class="content"><view></view><view class="btn mt40" type="primary" data-event-opts="{{[['tap',[['open',['$event']]]]]}}" bindtap="__e">扫描二维码</view></view>

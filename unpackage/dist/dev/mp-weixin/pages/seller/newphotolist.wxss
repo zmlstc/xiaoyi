@@ -1,0 +1,292 @@
+.login-image{background:#00BAAD url('https://www.fhlego.com/static/shop_logo.png') center no-repeat;background-size: 60%;border-radius: 50%;width: 20%;height:150rpx;margin:100rpx 40%;}
+.login{width:80%;height:160rpx;margin: 0 10%;}
+.login .column{width:90%;padding: 0 5%;height:80rpx;border-bottom: #cccccc 2rpx solid;}
+.login .column .title{	float: left;text-align: right;width:20%;font-size: 32rpx;line-height:80rpx;margin-right: 30rpx;}
+.login .column .input-text{width:70%;color: #cccccc;height: 60rpx;}
+.forget{width: 50%;height: 38rpx;line-height:38rpx;text-align: center;color: #00BAAD;margin:0 auto 80rpx;font-size:28rpx;}
+.store-top{width:96%;height:280rpx; background: #00BAAD url('https://www.fhlego.com/static/store-bg.jpg') no-repeat;background-size:100%;padding:40rpx 2% 20rpx;}
+.store-top .content{width:90%;height:120rpx;padding:0 5%;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-align: center;-webkit-align-items: center;align-items: center;}
+.store-top .content .avatar{width:108rpx;height:108rpx;background: url('https://www.fhlego.com/static/avatar.jpg') center no-repeat;background-size:100%;border-radius:50%;border:4rpx solid #fff;}
+.store-top .content .name{width:68%;height:60rpx;padding:30rpx 0;color: #FFFFFF;font-size:36rpx;font-weight:600;}
+.store-top .content .paycode{width:68rpx;height:68rpx;background: url('https://www.fhlego.com/static/paycode.png') right no-repeat;background-size:80%;float:right;}
+.store-top .info{width:100%;height:110rpx;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;}
+.store-top .info .item{width:40%;height:110rpx;text-align: center;}
+.store-top .info .item .title{width:148rpx;background:#00776f;border-radius:30rpx;color: #FFF;font-size:28rpx;padding:2rpx;font-size:24rpx;margin:0 auto;}
+.store-top .info .item .num{width:100%;color:#FFF;font-size:32rpx;line-height:48rpx;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack: center;-webkit-justify-content: center;justify-content: center;}
+.store-top .info .item .num text{width:30rpx;color:#FFF;font-size:22rpx;line-height:32rpx;}
+.store-top .info .item2{width:30%;height:110rpx;text-align: center;border-right: #FFF 2rpx solid;}
+.store-top .info .item2 .title{width:148rpx;background:#00776f;border-radius:30rpx;color: #FFF;font-size:24rpx;padding:2rpx;margin:0 auto;}
+.store-top .info .item2 .num{width:100%;color: #FFF;font-size:32rpx;line-height:48rpx;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack: center;-webkit-justify-content: center;justify-content: center;}
+.store-top .info .item2 .num text{width:30rpx;color:#FFF;font-size:22rpx;line-height:32rpx;}
+.store-top .info .item3 {width:30%;font-size:28rpx;}
+.store-top .info .item3 .msg {background:#00BAAD;border-radius:24rpx;color: #FFF;padding:4rpx 8rpx;}
+.store-top .info .item3 .again {background:#999;border-radius:24rpx;color: #666;padding:4rpx 8rpx;}
+.store-top .info .item3 .title {width:80%;background:#00776f;border-radius:40rpx;color: #FFFFFF;padding:12rpx 8rpx;margin:20rpx auto 0;border:#FFFFFF 2rpx solid;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack: center;-webkit-justify-content: center;justify-content: center;}
+.store-top .info .item3 .title .icon{width:20%;height:52rpx;background: url('https://www.fhlego.com/static/cash-ico.png') center no-repeat;background-size:100%;margin-right: 10rpx;}
+.store-manage {width:100%;overflow:hidden;}
+.store-manage .notice{width:94%;height:68rpx;line-height: 68rpx;padding: 0 3%;}
+.store-manage .notice .icon{width:5%;height:68rpx;background: url('https://www.fhlego.com/static/notice.png') center no-repeat;background-size:100%;margin-right:20rpx;float: left;}
+.store-manage .notice .title{font-size:28rpx;float: left;}
+.store-manage .notice .title text{color: #999999;font-size:24rpx;}
+.store-manage .control{width:90%;overflow:hidden;margin:40rpx auto 0;display:-webkit-box;display:-webkit-flex;display:flex;}
+.store-manage .control .item{width:25%;height:180rpx;}
+.store-manage .control .item .title{width:100%;line-height:40rpx;text-align: center;}
+.store-manage .control .item .jilu{width:92rpx;height:92rpx;background: url('https://www.fhlego.com/static/record.png') center no-repeat;background-size:70%;}
+.store-manage .control .item .youhui{width:92rpx;height:92rpx;background: url('https://www.fhlego.com/static/discount.png') center no-repeat;background-size:80%;}
+.store-manage .control .item .pingjia{width:92rpx;height:92rpx;background: url('https://www.fhlego.com/static/pingjia.png') center no-repeat;background-size:75%;}
+.store-manage .control .item .duihuan{width:92rpx;height:92rpx;background: url('https://www.fhlego.com/static/index_point.png') center no-repeat;background-size:80%;}
+.column {width:90%;padding:0 5%;height:98rpx;}
+/*高度48px栏目条*/
+.column .select{color: #666;text-align: left;height:68rpx;line-height: 68rpx;margin-top: 15rpx;}
+.column .item{width:20%;line-height:98rpx;float:left;}
+.column .item2{width:40%;line-height:98rpx;color:#999999;float:left;}
+.column .item3 {width:30%;line-height:98rpx;float:left;color:#999;}
+.column .item3 .msg{padding:6rpx 16rpx;background:#00BAAD;line-height:38rpx;float:left;overflow:hidden;font-size:24rpx;border-radius:30rpx;color: #FFFFFF;margin-top:24rpx;}
+.column .item3 .again{padding:6rpx 16rpx;background:#CCCCCC;line-height:38rpx;float:left;overflow:hidden;font-size:24rpx;border-radius:30rpx;color: #FFFFFF;margin-top:24rpx;}
+.column .item4{width:75%;float:right;line-height:98rpx;height: 98rpx;}
+.column .item4 input{color: #666;height:68rpx;line-height: 68rpx;margin-top: 15rpx;}
+.column .item4 .moer{width:10%;height:98rpx;background: url('https://www.fhlego.com/static/arrow_r.png') center no-repeat;background-size:50%;float:right;}
+.column .item4 .upload{width:10%;height:98rpx;background: url('https://www.fhlego.com/static/pic-up.png') center no-repeat;background-size:100%;float:left;}
+.column .item4 text{line-height:98rpx;color:#999999;}
+.column .item5{width:10%;height:98rpx;float:left;background: url('https://www.fhlego.com/static/scan.png') center no-repeat;background-size:80%;}
+.column .item6{width:70%;height:68rpx;line-height:68rpx;float:left;padding:10rpx 20rpx;overflow: hidden;}
+.column .item6 input{color: #666;text-align: left;height:68rpx;line-height: 68rpx;}
+.column .item7{width:10%;height:98rpx;float:right;background: url('https://www.fhlego.com/static/screen.png') center no-repeat;background-size:80%;}
+.column .item8{width:65%;float:right;line-height:98rpx;height: 98rpx;}
+.stroe-column {width:90%;padding:0 5%;height:98rpx;overflow:hidden;}
+/*通用功能栏*/
+.stroe-column .item{width:15%;height:48rpx;float:right;padding:20rpx 0;}
+.stroe-column .item .icon{width:60%;height:58rpx;background: url('https://www.fhlego.com/static/screen.png') center no-repeat;background-size:100%;}
+.stroe-column .item .title{width:100%;line-height:40rpx;text-align: center;}
+.stroe-column .item2 {width:80%;line-height:128rpx;float:left;}
+.coupon {height:220rpx;width:94%;overflow:hidden;border-radius:14rpx;margin:0 auto;display:-webkit-box;display:-webkit-flex;display:flex;}
+/*优惠券栏样式*/
+.coupon .item{width:28%;height:220rpx;-webkit-box-align:center;-webkit-align-items:center;align-items:center;text-align:center;border-radius:14rpx 0 0 14rpx;color:#fff;background:#ff7e00 url('https://www.fhlego.com/static/ticket-bg.jpg') right repeat-y;background-size:5%;}
+.coupon .item .h3{width:100%;}
+.coupon .item .h3 text{font-weight:bold;font-size:64rpx;}
+.coupon .item .tip {width:100%;font-size:24rpx;}
+.coupon .item .sur {width:100%;font-size:24rpx;line-height:32rpx;color:#fff600;}
+.coupon .circle {position:absolute;bottom:-12rpx;z-index:10;width:24rpx;height:24rpx;background:#F5F5F5;border-radius: 100px;}
+.coupon .t{left:25%;top:-12rpx;}
+.coupon .b{left:25%;top:auto;bottm:-20rpx;}
+.coupon .item2 {width:72%;height:200rpx;padding:10rpx 20rpx;}
+.coupon .item2 .title{width:100%;line-height:45rpx;margin-bottom:10rpx;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;}
+.coupon .item2 .title .h3{width:90%;line-height:45rpx;margin-bottom:10rpx;}
+.coupon .item2 .title .del{width:48rpx;height:48rpx;background:url('https://www.fhlego.com/static/del.png') center no-repeat; background-size:100%;float:right;}
+.coupon .item2 .tip {font-size:24rpx;color:#666;line-height:42rpx;padding:0 5rpx;}
+.coupon .item2 .tip text{background: #ffeecf;color:#f5a101;padding:4rpx 8rpx;}
+.column3 {width:90%;padding:20rpx 5%;height:128rpx;}
+/*高度74px栏目条*/
+.column3 .item{width:55%;height:128rpx;border-right:#cccccc 2rpx solid;float:left;}
+.column3 .item .title{width:100%;line-height:48rpx;}
+.column3 .item .num{width:100%;line-height:80rpx;color:#999;}
+.column3 .item .num text{font-size:48rpx;color:#00BAAD;}
+.column3 .item2{width:35%;height:88rpx;float:right;padding:20rpx;}
+.column3 .item2 .title{width:100%;line-height:48rpx;}
+.column3 .item2 .title text{color: #00BAAD;}
+.column4 {width:90%;padding:20rpx 5%;overflow: hidden;height:246rpx;}
+.column4 textarea{width:95%;padding:10rpx;height:148rpx;border: 2rpx solid #ccc;}
+.column4 .title{width:100%;line-height:58rpx;}
+.column4 .info{width:94%;line-height:48rpx;border-radius:10rpx;color: #999;padding:10rpx 20rpx;margin:0 auto;}
+.column5{width:90%;overflow:hidden; margin:0 5% 20rpx; border-radius: 20rpx;}
+/*优惠券栏样式*/
+.column5 .item{width:28%;height:180rpx; border-right: #CCCCCC 2rpx dashed;padding:30rpx 10rpx;text-align: center;float: left;}
+.column5 .item .num{width:100%;line-height:58rpx;}
+.column5 .item .num text{font-size:54rpx;color: #FF6600;}
+.column5 .item .tip{width:100%;line-height:48rpx;height: 48rpx;}
+.column5 .item .sur{width:100%;line-height:48rpx;height: 48rpx;color:#00BAAD;font-size: 24rpx;}
+.column5 .item2{width:68%;height:180rpx;padding:20rpx 10rpx;float:right;margin-left:10rpx;}
+.column5 .item2 .title{width:100%;height:46rpx;line-height:46rpx;margin-bottom:10rpx;overflow: hidden;}
+.column5 .item2 .info {height:134rpx;overflow: hidden;}
+.column5 .item2 .info .tip {width:85%;font-size:24rpx;color: #999999;line-height:36rpx;float:left;}
+.column5 .item2 .info .del {width:15%;height:64rpx;background: url('https://www.fhlego.com/static/del.png') center no-repeat; background-size:100%;float:right;margin-top:50rpx;display:block;}
+.column6{width:90%;padding:20rpx 5% 30rpx; overflow:hidden;}
+/*自适应高度样式*/
+.column6 .title{width:100%;line-height:68rpx;}
+.column6 .opt{padding:8rpx 12rpx;line-height:40rpx;float:left;}
+.column6 .opt text{font-size:30rpx;}
+.set-column {background: #FFFFFF;width:87%;height:96rpx;padding:10rpx 5% 10rpx 8%;}
+.set-column .item {width:40%;line-height:96rpx;float:left;}
+.set-column .item2{width:50%;float:right;}
+.set-column .item2 .avatar{width:88rpx;height:88rpx; background-size:100%;border-radius:50%;border: 2rpx #ccc solid;float: right;}
+.examine{width:50%;overflow:hidden;}
+.examine .icon{width:64rpx;height:64rpx;background: url('https://www.fhlego.com/static/examine.png') center no-repeat;background-size:100%;}
+.examine .tip{width:100%;line-height:38rpx;text-align:center;color:#999;}
+/*提现样式*/
+.cash-mode {width:90%;height:98rpx; padding:10rpx 4% 10rpx 6%;}
+.cash-mode .item{width:80%;float: left;padding:6rpx 0;}
+.cash-mode .item .alipay{width:20%;height:88rpx;float: left;background: url('https://www.fhlego.com/static/alipay.png') center no-repeat;background-size:60%;}
+.cash-mode .item .wxpay{width:20%;height:88rpx;float: left;background: url('https://www.fhlego.com/static/wxpay.png') center no-repeat;background-size:60%;}
+.cash-mode .item .content{width:60%;margin-left:10rpx;float:left;}
+.cash-mode .item .content .name{width:100%;line-height:48rpx;}
+.cash-mode .item .content .acc{width:100%;font-size:28rpx;color: #999999;line-height:30rpx;}
+.cash-mode .item2 {width:15%;float: right;padding:6rpx 0;}
+.cash-mode .item2 .add{width:88rpx;height:88rpx;background: url('https://www.fhlego.com/static/add.png') center no-repeat; background-size:50%;float: right;}
+.cash-mode .item2 .edit{width:88rpx;height:88rpx;background: url('https://www.fhlego.com/static/edit.png') center no-repeat; background-size:50%;float: right;}
+.cash-out {width:90%;height:220rpx; padding:20rpx 5%;}
+.cash-out .title{line-height:40rpx;font-size:28rpx;}
+.cash-out .content{color: #333333;line-height:100rpx;margin: 10rpx 0;}
+.cash-out .content text{margin-left: 10rpx;color: #999999;font-size: 48rpx;}
+.cash-out .tip{line-height:40rpx;font-size:28rpx;}
+.cash-out .tip text{color: #00BAAD;margin:0 6rpx;}
+.cash-header {width:90%;height:auto;padding:10rpx 5%;overflow: hidden;}
+.cash-header .paymode{width:128rpx;height:128rpx;margin: 0 auto;}
+.cash-header .wxpay{background: url('https://www.fhlego.com/static/wxpay.png') center no-repeat; background-size:80%;}
+.cash-header .alipay{background: url('https://www.fhlego.com/static/alipay.png') center no-repeat; background-size:80%;}
+.cash-header .accname{width:100%;line-height:56rpx; text-align: center;}
+.cash-header .accname text{font-size:24rpx;color:#00BAAD;}
+.cash-add {width:90%;height:80rpx; padding:10rpx 5%;}
+.cash-add .item{width:20%;line-height:80rpx;float:left;}
+.cash-add .item2{width:60%;line-height:80rpx;float:left;color: #999999;}
+.cash-add .item2 .alipay{width:20%;height:80rpx;float: left;background: url('https://www.fhlego.com/static/alipay.png') center no-repeat;background-size:80%;}
+.cash-add .item2 .wxpay{width:20%;height:80rpx;float: left;background: url('https://www.fhlego.com/static/wxpay.png') center no-repeat;background-size:80%;}
+.cash-add .item3{width:35%;line-height:80rpx;float:left;color:#999999;}
+.cash-add .item3 .code{padding:6rpx;width:65%;text-align:center;line-height:40rpx;color: #FFFFFF;background: #00BAAD;border-radius:10rpx;font-size:28rpx;margin-top:14rpx;}
+/*图片管理样式*/
+.pic-manage {width:94%;padding:0 3%;overflow: hidden;}
+.pic-manage .item{width:47%;height:268rpx;float: left;}
+.pic-manage .item .album{width:100%;height:220rpx;border-radius: 20rpx;border: #cccccc 2rpx solid;}
+.pic-manage .item .pic{width:100%;height:220rpx;}
+.pic-manage .item .title{width:100%;line-height:48rpx;text-align: center;}
+.pic-navbar{width:90%;height:68rpx; padding:20rpx 5%;}
+.pic-navbar .select{padding:10rpx 20rpx;line-height:68rpx;background: #00BAAD;color: #FFFFFF;border-radius:40rpx;}
+.pic-navbar text{padding:10rpx;line-height:48rpx;width: auto;}
+.pic-control{height:110rpx;width:50%; margin:0 20% 60rpx; border: #cccccc 1px solid; position: fixed; bottom:0; z-index:999;opacity:0.8;background: #FFFFFF;border-radius:60rpx;padding:0 5%;}
+.pic-control .item{width:25%;float:left;height:110rpx;}
+.pic-control .item .title{width:100%;line-height:30rpx;text-align: center;font-size:26rpx;}
+.pic-control .item .gl{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage01.png') center no-repeat;background-size:90%;}
+.pic-control .item .add{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage02.png') center no-repeat;background-size:80%;}
+.pic-control .item .all{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage04.png') center no-repeat;background-size:75%;}
+.pic-control .item .del{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage03.png') center no-repeat;background-size:75%;}
+.pic-control2{height:110rpx;width:60%; margin:0 15% 60rpx; border: #cccccc 1px solid; position: fixed; bottom:0; z-index:999;opacity:0.8;background: #FFFFFF;border-radius:60rpx;padding:0 5%;}
+.pic-control2 .item{width:20%;float:left;height:110rpx;}
+.pic-control2 .item .title{width:100%;line-height:30rpx;text-align: center;font-size:24rpx;}
+.pic-control2 .item .gl{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage01.png') center no-repeat;background-size:90%;}
+.pic-control2 .item .move{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage06.png') center no-repeat;background-size:80%;}
+.pic-control2 .item .all{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage04.png') center no-repeat;background-size:75%;}
+.pic-control2 .item .del{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage03.png') center no-repeat;background-size:75%;}
+.pic-control2 .item .up{width:70%;height:70rpx;background: url('https://www.fhlego.com/static/pic_manage05.png') center no-repeat;background-size:75%;}
+/*销售/转账记录样式*/
+.sale-list {width:94%;padding:20rpx 3%;overflow: hidden;}
+.sale-list .item{width:100%;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: start;-webkit-justify-content: flex-start;justify-content: flex-start;}
+.sale-list .item .num{width:60%;line-height:48rpx;}
+.sale-list .item .num text{color: #00BAAD;font-weight:600;margin-right: 5rpx;}
+.sale-list .item .date {width:40%;line-height:48rpx;color: #999999;font-size:24rpx;-webkit-box-pack:end;-webkit-justify-content:flex-end;justify-content:flex-end;display: -webkit-box;display: -webkit-flex;display: flex;}
+.sale-list .item .date .icon{width:32rpx;height:48rpx;background: url('https://www.fhlego.com/static/time_ico.png') center no-repeat;background-size:80%;float:left;}
+.sale-list .item2{width:100%;padding:5rpx 0;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: start;-webkit-justify-content: flex-start;justify-content: flex-start;}
+.sale-list .item2 .left{width:60%;overflow:hidden;}
+.sale-list .item2 .left .name{width:100%;line-height:48rpx;}
+.sale-list .item2 .left .name .icon{width:36rpx;height:36rpx;background: url('https://www.fhlego.com/static/avatar.jpg') center no-repeat;background-size:100%;float:left;border-radius:50%;margin-top: 6rpx;}
+.sale-list .item2 .left .pay{width:100%;line-height:36rpx;color: #999;font-size:24rpx;margin-top:10rpx;}
+.sale-list .item2 .left .pay .icon{width:36rpx;height:36rpx;background: url('https://www.fhlego.com/static/payment.png') center no-repeat;background-size:100%;float:left;border-radius:50%;}
+.sale-list .item2 .right{width:40%;text-align: right;}
+.sale-list .item2 .right text{color: #999;font-size:24rpx;margin-right:6rpx;}
+.sale-list .item2 .right .amount{color: #00BAAD;font-size:38rpx;line-height:48rpx;}
+.sale-list .item2 .right .income {color: #00BAAD;font-size:38rpx;line-height:42rpx;}
+.sale-list .item2 .right .expend{color:#ccc;font-size:24rpx;line-height:36rpx;}
+.sale-list .item2 .right .state{width:128rpx;line-height:36rpx;text-align: center;font-size:24rpx;padding:5rpx;float:right;border-radius:8rpx;margin-top:8rpx;text-align:right;}
+.sale-list .item2 .right .type01{color:#00BAAD;}
+.sale-list .item2 .right .type02{color:#999;}
+.zz-list {width:90%;height:188rpx;padding:20rpx 5%;}
+.zz-list .item{width:65%;float: left;}
+.zz-list .item .num{width:100%;line-height:60rpx;}
+.zz-list .item .num text{color: #00BAAD;font-weight:600;margin-right: 5rpx;}
+.zz-list .item .name{width:100%;height:58rpx;line-height:58rpx;padding:10rpx 0;}
+.zz-list .item .name .icon{width:48rpx;height:48rpx;background: url('https://www.fhlego.com/static/avatar.jpg') center no-repeat;background-size:100%;float:left;border-radius:50%;margin-top: 6rpx;}
+.zz-list .item .date {width:100%;height:36rpx;line-height:36rpx;color: #999999;font-size:24rpx;padding:12rpx 0;}
+.zz-list .item .date .icon{width:7%;height:36rpx;background: url('https://www.fhlego.com/static/time_ico.png') center no-repeat;background-size:100%;float:left;}
+.exchange-list {width:94%;padding:30rpx 3%;overflow:hidden;background: #FFF;}
+.exchange-list .item{width:75%;height:118rpx;float:left;}
+.exchange-list .item .pic{width:118rpx;height:118rpx;float:left;background: url('https://www.fhlego.com/static/test-01.jpg') center no-repeat;background-size:100%;border-radius:10rpx;}
+.exchange-list .item .content{width:75%;height:118rpx;float:right;}
+.exchange-list .item .content .name{width:100%;height:76rpx;line-height:36rpx;}
+.exchange-list .item .content .tip{width:100%;line-height:40rpx;color: #999;overflow: hidden;}
+.exchange-list .item .content .tx1{padding: 6rpx 0;float:left;overflow:hidden;}
+.exchange-list .item .content .jf1{padding: 6rpx 0;float:left;}
+.exchange-list .item2 {width:24%;height:118rpx;float:right;}
+.exchange-list .item2 .dh{width:100%;height:58rpx;}
+.exchange-list .item2 .dh .icon{width:58rpx;height:58rpx;float:left;background: url('https://www.fhlego.com/static/dh.png') center no-repeat;background-size:80%;}
+.exchange-list .item2 .lq{width:100%;height:58rpx;}
+.exchange-list .item2 .lq .icon{width:58rpx;height:58rpx;float:left;background: url('https://www.fhlego.com/static/lq.png') center no-repeat;background-size:80%;}
+.exchange-list .item2 .date{width:100%;line-height:30rpx;color: #999999;font-size:24rpx;text-align:right;}
+.exchange-list .item2 .date text{color: #00BAAD;}
+.exchange-list .item2 .del{width:60rpx;height:60rpx;background: url('https://www.fhlego.com/static/del.png') center no-repeat;background-size:100%;}
+/*评价回复样式*/
+.reply-list{width:94%;padding:20rpx 3%;overflow:hidden;background: #FFF;margin-bottom: 10rpx;}
+.reply-list .head{width:100%;padding:10rpx 0;overflow: hidden;}
+.reply-list .head .mement{width:60%;float:left;line-height:32rpx;}
+.reply-list .head .mement .avatar{width:48rpx;height:48rpx;background-size:100%;float:left;border-radius:50%;}
+.reply-list .head .mement .name{padding-right:10rpx;float:left;}
+.reply-list .head .mement .start{width:218rpx;float:left;}
+.reply-list .head .reply{float:right;padding:0 10rpx;background:#00BAAD;color: #FFF;text-align: center;font-size:24rpx;border-radius: 8rpx;}
+.reply-list .head .date {float:right;color: #999999;font-size:24rpx;}
+.reply-list .head .date .icon{width:48rpx;height:48rpx;background: url('https://www.fhlego.com/static/time_ico.png') center no-repeat;background-size:60%;float: left;}
+.reply-list .content{padding:12rpx 10rpx;line-height:40rpx;height:auto;font-size:30rpx;color:#666666;}
+.reply-list .reply{padding:10rpx;line-height:40rpx;overflow:hidden;padding:20rpx;}
+.reply-list .reply .title{width:100%;line-height: 48rpx;color:#00BAAD;}
+.reply-list .reply .content{width: 100%;line-height:40rpx;color:#999999;}
+.reply-list .reply .date {width: 100%;float:left;color:#999999;font-size:24rpx;line-height:60rpx;}
+.reply-list .reply .date .icon{width:48rpx;height:60rpx;background: url('https://www.fhlego.com/static/time_ico.png') center no-repeat;background-size:60%;float: left;}
+.reply-list .reply .date .del{width:60rpx;height:60rpx;background: url('https://www.fhlego.com/static/del.png') center no-repeat;background-size:100%;float: right;}
+/*ICON图标样式*/
+.tx{width:40rpx;height:52rpx;background: url('https://www.fhlego.com/static/avatar_ico.png') center no-repeat;background-size:80%;float:left}
+.jf{width:40rpx;height:52rpx;background: url('https://www.fhlego.com/static/point_ico.png') center no-repeat;background-size:80%;float:left}
+/*收款码样式*/
+.collect-qr{width: 90%;margin:10% 5% 0;background: #fff;border-radius:20rpx;overflow: hidden;}
+.collect-qr .intro{width: 90%;padding:30rpx 5% 20rpx;overflow: hidden;}
+.collect-qr .intro .avatar{width:98rpx;height:98rpx;float: left;overflow: hidden;background: url('https://www.fhlego.com/static/avatar.jpg') center no-repeat;background-size:100%;border-radius:10rpx;}
+.collect-qr .intro .info-box{width:75%;height:98rpx;float: left;overflow: hidden;}
+.collect-qr .intro .info-box .name{width:100%;height:58rpx;line-height:58rpx;overflow: hidden;font-size: 32rpx;}
+.collect-qr .intro .info-box .dizhi{width:100%;height:38rpx;line-height:38rpx;font-size:24rpx;color: #999;}
+.collect-qr .qr-code{width:100%;margin:30rpx 0;overflow: hidden;text-align: center;}
+.collect-qr .tip{width:90%;line-height:38rpx;color: #999;font-size: 26rpx;text-align: center;padding:0 5% 30rpx;}
+.eva-right{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column;-webkit-box-flex: 1;-webkit-flex: 1;flex: 1;padding-left:20rpx;}
+.eva-right .acc{width: 100%;height:48rpx;overflow: hidden;}
+.eva-right .acc .name{font-size:28rpx;float:left;color: #666;line-height:48rpx;margin-right: 10rpx;}
+.eva-right .acc .start{width:35%;float:left;line-height: 56rpx;}
+.eva-right .acc .time{width:40%;font-size:24rpx;float:right;height:48rpx;line-height:48rpx;color: #999;text-align: right;}
+.eva-right .zan-box{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:base-line;-webkit-align-items:base-line;align-items:base-line;position:absolute;top: 10rpx;right: 10rpx;}
+.eva-right .zan-box .yticon{margin-left: 8rpx;}
+.eva-right .content{font-size: 28rpx;color: #666;line-height:42rpx;}
+.eva-right .reply{padding:10rpx 20rpx 20rpx;margin-top: 10rpx;}
+.eva-right .reply .title{color: #00BAAD;}
+.eva-right .reply .date{font-size: 24rpx;height: 32rpx;line-height: 32rpx;margin-top:14rpx;color: #999;}
+.eva-right .reply .date .icon{height:32rpx;width:32rpx;background: url('https://www.fhlego.com/static/time_ico.png') center no-repeat;background-size:80%;margin-right:5rpx;float: left;}
+.imgs {display:-webkit-box;display:-webkit-flex;display:flex;-webkit-flex-wrap: wrap;flex-wrap: wrap;margin-top:10rpx;-webkit-box-pack: start;-webkit-justify-content: flex-start;justify-content: flex-start;}
+.imgs .imgs-box {width:128rpx;height:128rpx;margin-right:10rpx;box-sizing: border-box;background: #ccc;overflow: hidden;text-align:center;border: 2rpx #ccc solid;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;
+}
+.imgs .imgs-box image{width:128rpx;height:auto;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column;}
+.store-box{width:94%;padding:20rpx 3%;background-color:#fff;overflow:hidden;}
+.store-box .item{width:100%;overflow:hidden;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;-webkit-box-align:center;-webkit-align-items:center;align-items:center;padding:15rpx 0;}
+.store-box .item .addr{width:80%;display:-webkit-box;display:-webkit-flex;display:flex;padding:10rpx 0;line-height:32rpx;}
+.store-box .item .addr .icon{width:36rpx;height:36rpx;background: url('https://www.fhlego.com/static/location.png') center no-repeat;background-size:90%}
+.store-box .item .phone{width:15%;overflow:hidden;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;border-left:2rpx solid #ccc;}
+.store-box .item .phone .icon{width:64rpx;height:64rpx;background: url('https://www.fhlego.com/static/phone.png') center no-repeat;background-size:90%}
+.store-box .item2{width:100%;overflow:hidden;display:-webkit-box;display:-webkit-flex;display:flex;padding:20rpx 0 0;}
+.store-box .item2 .ss-box{width:95%;height:80rpx;overflow:hidden;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;}
+.store-box .item2 .ss-box .box{width:84rpx;height:80rpx;font-size: 28rpx;text-align: center;}
+.store-box .item2 .ss-box .box .num{width:42rpx;height:42rpx;}
+.store-box .item2 .ss-box .box .text{width: 100%;font-size:24rpx;line-height:32rpx;margin-top:-10rpx;color:#666;}
+.store-box .item2 .more{width:58rpx;height:80rpx;background: url('https://www.fhlego.com/static/arrow_r.png') center no-repeat;background-size:60%;}
+.catelist{width:94%;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-flex-wrap: wrap;flex-wrap: wrap; box-sizing: border-box; -webkit-box-pack: justify; -webkit-justify-content: space-between; justify-content: space-between;}
+.catelist .cate {-webkit-box-flex: 49%;-webkit-flex: 49% 0;flex: 49% 0;text-align:center;background:#fff;margin:20rpx 0rpx;border-radius: 11rpx;box-sizing: border-box;padding:20rpx 0;}
+.catelist .cate .top {overflow:hidden;}
+.catelist .cate .top .img{height:220rpx;overflow:hidden;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;}
+.catelist .cate .top .img .cateimg {width: 200rpx;height: 200rpx;}
+.catelist .cate .top .title{line-height:32rpx;overflow:hidden;padding:10rpx 0;}
+.catelist .cate .top .num{line-height:32rpx;color:#999;}
+.catelist .cate .top .num text{color:#00BAAD;font-weight:bold;padding:0 5rpx;}
+.catelist .cate .pic {overflow:hidden;}
+.catelist .cate .pic .img{height:220rpx;overflow:hidden;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;}
+.catelist .cate .pic .img .photo {width:200rpx;height:200rpx;}
+.catelist .cate .bottom {display: -webkit-box;display: -webkit-flex;display: flex;}
+.catelist .cate .bottom .edit{-webkit-box-flex: 50%;-webkit-flex: 50% 0;flex: 50% 0;margin: 10rpx 20rpx;border: 1px solid #00867d;border-radius: 8rpx;background:#00BAAD;color:#fff;}
+.catelist .cate .bottom .del {-webkit-box-flex: 50%;-webkit-flex: 50% 0;flex: 50% 0;margin: 10rpx 20rpx;border: 1px solid #ccc;border-radius: 8rpx;background:#eee;}
+.upload{position: fixed;bottom: 0;width: 100%;border-radius: 0;}
+.photolist{width:94%;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-flex-wrap:wrap;flex-wrap:wrap; box-sizing: border-box;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;}
+.photolist .photo {-webkit-box-flex:48%;-webkit-flex:48% 0;flex:48% 0;text-align: center;background: #fff;margin:10rpx 0rpx;display:-webkit-box;display:-webkit-flex;display:flex;border-radius:10rpx;box-sizing: border-box;-webkit-box-align: center;-webkit-align-items: center;align-items: center;padding:20rpx;overflow:hidden;}
+.photolist .photo .photoimg {width:200rpx;height:200rpx;}
+page {
+	background: #F5F5F5;
+}
+

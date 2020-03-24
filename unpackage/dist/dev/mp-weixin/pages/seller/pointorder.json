@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "兑换管理",
+  "usingComponents": {
+    "uni-drawer": "/components/uni-drawer/uni-drawer"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "小易共享",
+  "navigationStyle": "custom",
+  "bounce": "none",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate"
+  }
+}

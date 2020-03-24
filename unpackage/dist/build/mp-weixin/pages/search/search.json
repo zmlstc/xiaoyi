@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "店铺搜索",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "search-input": "/components/search-input/search"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/index/city",
+    "pages/store/index",
+    "pages/store/pay",
+    "pages/member/login",
+    "pages/member/home",
+    "pages/member/consume",
+    "pages/member/wallet",
+    "pages/member/flstat",
+    "pages/member/invite",
+    "pages/member/coupon",
+    "pages/member/set/set",
+    "pages/member/set/userset",
+    "pages/member/set/safeset",
+    "pages/member/set/userpic",
+    "pages/member/set/userpicupload",
+    "pages/member/set/editnick",
+    "pages/member/register/userreg",
+    "pages/seller/login",
+    "pages/member/register/shopreg",
+    "pages/member/register/shopreg2",
+    "pages/member/register/shopreg3",
+    "pages/seller/seller",
+    "pages/seller/salelist",
+    "pages/seller/set",
+    "pages/seller/sellerinfo",
+    "pages/seller/bindmob",
+    "pages/seller/modifyname",
+    "pages/seller/storeintro",
+    "pages/seller/storepic",
+    "pages/member/points/pinfo",
+    "pages/member/points/pshop",
+    "pages/member/points/pointorder",
+    "pages/member/points/pointslog",
+    "pages/member/fav_store",
+    "pages/member/evallist",
+    "pages/member/viewslist",
+    "pages/member/tx/tx",
+    "pages/member/tx/txway",
+    "pages/member/tx/txwayadd",
+    "pages/seller/coupon/coupon",
+    "pages/seller/coupon/add",
+    "pages/seller/pointorder",
+    "pages/agent/reg",
+    "pages/agent/reg2",
+    "pages/index/cate"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小易共享",
+    "navigationBarBackgroundColor": "#F5F5F5",
+    "backgroundColor": "#F5F5F5"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#00BAAD",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/b_logo_2.png",
+        "selectedIconPath": "static/b_logo.png",
+        "text": "小易"
+      },
+      {
+        "pagePath": "pages/index/city",
+        "iconPath": "static/b_fand_2.png",
+        "selectedIconPath": "static/b_fand.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/member/home",
+        "iconPath": "static/b_member_2.png",
+        "selectedIconPath": "static/b_member.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "小易共享",
+  "compilerVersion": "1.9.9",
+  "usingComponents": {}
+}

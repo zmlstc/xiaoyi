@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "小易共享",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#00BAAD",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate"
+  }
+}

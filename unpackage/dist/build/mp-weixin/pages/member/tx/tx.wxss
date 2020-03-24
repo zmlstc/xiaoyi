@@ -1,0 +1,1 @@
+page{background:#f5f5f5}.password{width:25%;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;padding:3%;font-size:40rpx;-webkit-box-shadow:0 0 1rpx #ccc;box-shadow:0 0 1rpx #ccc}.hover{background:#eee}.masks{bottom:-50%;position:fixed;background:#fff;width:100%;-webkit-transition:.5s;-o-transition:.5s;transition:.5s}.bot{bottom:0}

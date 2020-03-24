@@ -1,0 +1,1 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/member/flstat"],{"08c2":function(e,l,n){"use strict";n.r(l);var t=function(){var e=this,l=e.$createElement;e._self._c},a=[],o=n("2877"),c={},s=Object(o["a"])(c,t,a,!1,null,null,null);l["default"]=s.exports}},[["a49e","common/runtime","common/vendor"]]]);

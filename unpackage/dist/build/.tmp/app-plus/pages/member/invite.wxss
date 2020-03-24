@@ -1,0 +1,10 @@
+
+.comment .left-nav {
+	background: none;
+	color: #00BAAD;
+}
+.comment .active{
+	background-color: #00BAAD;
+	color: #FFFFFF;
+}
+

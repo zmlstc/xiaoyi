@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container{ width: 100%; height: 100%; }\n.",[1],"avatar-container{ position: relative; text-align: center; padding-top: 50%; }\n.",[1],"avatar{ margin-top: ",[0,50],"; }\n",],undefined,{path:"./pages/member/set/userpic.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/member/set/userpic.wxml') } }));

@@ -1,0 +1,28 @@
+
+page{background: #F5F5F5;}
+.cell-pd {
+	padding: 20rpx 30rpx;
+}
+.uni-list::before {
+	height: 0;
+}
+.uni-list:after {
+	height: 0;
+}
+.list-pd {
+	margin-top: 0;
+}
+.close-view{
+    text-align: center;
+	line-height:30rpx;
+	height: 35rpx;
+	width: 35rpx;
+	background: #ef5350;
+	color: #FFFFFF;
+	position: absolute;
+	top: 1rpx;
+	right: 1rpx;
+	font-size: 35rpx;
+	border-radius: 8rpx;
+}
+

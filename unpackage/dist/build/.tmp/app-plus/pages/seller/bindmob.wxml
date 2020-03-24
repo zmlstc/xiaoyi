@@ -1,0 +1,1 @@
+<view class="m-mian" bind:__l="__l"><view class="column bf mt20"><view class="item font-r">手机号</view><view class="item2 ml10">186****8899</view><view class="item3"><view class="title fc">获取动态码</view></view></view><view class="column bf mt5"><view class="item font-r">验证码</view><view class="item2 ml10">填写6位动态码</view></view><view class="btn mt40">确认提交</view></view>

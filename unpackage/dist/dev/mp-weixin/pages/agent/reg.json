@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "代理申请",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "mpvue-city-picker": "/components/mpvue-citypicker/mpvueCityPicker"
+  }
+}

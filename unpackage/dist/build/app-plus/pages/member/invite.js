@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"comment .",[1],"left-nav { background: none; color: #00BAAD; }\n.",[1],"comment .",[1],"active{ background-color: #00BAAD; color: #FFFFFF; }\n",],undefined,{path:"./pages/member/invite.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/member/invite.wxml') } }));

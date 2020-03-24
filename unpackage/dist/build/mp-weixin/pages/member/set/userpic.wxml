@@ -1,0 +1,1 @@
+<view class="container flex"><view style="text-align:center;"><image class="avatar" src="{{src}}" data-event-opts="{{[['tap',[['upload',['$event']]]]]}}" bindtap="__e"></image></view><view data-event-opts="{{[['tap',[['upload',['$event']]]]]}}" class="btn mt40" bindtap="__e">修改头像</view></view>
