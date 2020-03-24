@@ -4,7 +4,7 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "小易共享",
+				"navigationBarTitleText": "小易共享小程序",
 				"navigationBarTextStyle": "white",
 				"navigationBarBackgroundColor": "#00BAAD",
 				"app-plus": {
